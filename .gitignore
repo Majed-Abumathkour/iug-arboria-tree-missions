@@ -1,0 +1,18 @@
+# NetBeans private user settings
+nbproject/private/
+
+# Ant/NetBeans build outputs
+build/
+dist/
+
+# Optional package outputs
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
